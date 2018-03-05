@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: seashell; }
+
+#mission {
+  background: url("../images/img-mission-background.jpg"); }
+
+#local {
+  background: url("../images/img-locations-background.jpg"); }
